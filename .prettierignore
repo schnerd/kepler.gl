@@ -1,0 +1,8 @@
+dist/
+docs/
+contributing/
+scripts/
+website/
+**/*.json
+**/*.html
+**/*.css
